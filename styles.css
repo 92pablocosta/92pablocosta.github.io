@@ -18,6 +18,11 @@ body {
 }
 
 header {
+    width: 100%;
+    overflow-x: hidden; /* Evita scroll horizontal */
+}
+
+header {
     background: #000;
     color: #d4af37;
     padding: 1rem 0;
